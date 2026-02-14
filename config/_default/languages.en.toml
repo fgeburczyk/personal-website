@@ -1,0 +1,21 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Filip Geburczyk"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "2 January 2006"
+  description = "Personal website and blog"
+
+[params.author]
+  name = "Filip Geburczyk"
+  headline = "Senior Data Scientist | Credit Risk | Ex-Lawyer"
+  bio = "Data scientist specializing in credit risk model implementation at a systemically important bank. Trained as a lawyer, now happiest debugging messy ETLs and exploring the regulatory frameworks that shape banking."
+  # image = "img/author.jpg"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/filip-geburczyk-phd-54184556/" },
+    { github = "https://github.com/fgeburczyk" },
+  ]
