@@ -13,7 +13,7 @@ title = "Filip Geburczyk"
 [params.author]
   name = "Filip Geburczyk"
   headline = "Data Scientist"
-  bio = "Data scientist specializing in credit risk model implementation at a systemically important bank. Trained as a lawyer, now happiest debugging messy ETLs and exploring the regulatory frameworks that shape banking."
+  bio = "Data scientist specializing in credit risk model implementation at a systemically important bank. Trained as a lawyer, now happy with debugging messy ETLs and exploring the regulatory frameworks that shape the intersection of data and banking."
   # image = "img/author.jpg"
   links = [
     { linkedin = "https://www.linkedin.com/in/filip-geburczyk-phd-54184556/" },
