@@ -12,7 +12,7 @@ title = "Filip Geburczyk"
 
 [params.author]
   name = "Filip Geburczyk"
-  headline = "Data Scientist"
+  headline = "Data Professional"
   bio = "Data scientist specializing in credit risk model implementation at a systemically important bank. Trained as a lawyer, now happy with debugging messy ETLs and exploring the regulatory frameworks that shape the intersection of data and banking."
   # image = "img/author.jpg"
   links = [
