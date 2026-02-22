@@ -2,6 +2,7 @@
 title: "ECB RDARR Knowledge Graph"
 date: 2026-02-22
 draft: false
+showDate: false
 description: "A structured concept map of the ECB's Risk Data Aggregation and Risk Reporting framework, based on BCBS 239 and the ECB Guide on RDARR (May 2024)"
 tags: ["regulatory", "banking", "risk-management", "data-governance", "BCBS-239"]
 categories: ["projects"]
