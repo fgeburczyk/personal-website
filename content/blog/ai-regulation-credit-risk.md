@@ -1,5 +1,6 @@
 ---
 title: "Why the 'Unsolvable' AI Regulation Problem Has Already Been Solved in Credit Risk"
+date: 2026-02-08
 draft: false
 showDate: false
 description: "How banking's 8-stage AIRB framework proves that even complex AI can be governed effectively"

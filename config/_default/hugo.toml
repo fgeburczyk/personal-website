@@ -1,6 +1,7 @@
 theme = "blowfish"
 # baseURL = "https://your_domain.com/"
 defaultContentLanguage = "en"
+mainSections = ["blog", "projects"]
 
 enableRobotsTXT = true
 summaryLength = 0
