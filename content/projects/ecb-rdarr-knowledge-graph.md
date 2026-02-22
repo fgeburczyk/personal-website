@@ -30,4 +30,5 @@ It is intended as a reference tool for practitioners working on RDARR implementa
 
 ## Links
 
+- [Interactive Graph](https://termboard.com/app?url=https://raw.githubusercontent.com/fgeburczyk/ecb-rdarr-knowledge-graph/main/RDARR%20Graph.json) — opens directly in Termboard, no account needed
 - [GitHub Repository](https://github.com/fgeburczyk/ecb-rdarr-knowledge-graph)
