@@ -30,5 +30,4 @@ It is intended as a reference tool for practitioners working on RDARR implementa
 
 ## Links
 
-- [Interactive Graph](https://fgeburczyk.github.io/ecb-rdarr-knowledge-graph) — pan, zoom, click any node for its full description
 - [GitHub Repository](https://github.com/fgeburczyk/ecb-rdarr-knowledge-graph)
